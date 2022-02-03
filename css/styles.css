@@ -400,8 +400,8 @@ header.masthead h1 {
     display: grid;
     align-content: space-evenly;
 }
-@media (min-width: 349.98px) and (hover: hover) {
-    .fillbox {
+@media (min-width: 349.98px){
+    .fillbox.dt {
         width: 505px;
         width: -webkit-calc(100% - 2rem);
         width:    -moz-calc(100% - 2rem);
@@ -411,19 +411,19 @@ header.masthead h1 {
         top: 0;
         left: 1rem;
     }
-    .hoverlay {
+    .hoverlay.dt {
         opacity: 1;
     }
-    .hoverlay + div {
+    .hoverlay.dt + div {
         opacity: 0;
         pointer-events: none;
         padding-left: 3rem;
         padding-right: 3rem;
     }
-    .hoverlay:hover{
+    .hoverlay.dt:hover{
         opacity: 0;
     }
-    .hoverlay:hover + div{
+    .hoverlay.dt:hover + div{
         opacity: 1;
         background-color: rgba(255, 255, 255, .2);
     }
