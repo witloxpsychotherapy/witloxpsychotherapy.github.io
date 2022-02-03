@@ -43,7 +43,7 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
     //if no touch capabilities detected, add hover effects
-    if !('ontouchstart' in window || navigator.maxTouchPoints > 0 || navigator.msMaxTouchPoints > 0) {
-        document.body.querySelectorAll('.fillbox').forEach((el) => el.classList.add('dt'))
+    if (!('ontouchstart' in window || navigator.maxTouchPoints > 0 || navigator.msMaxTouchPoints > 0)) {
+        document.body.querySelectorAll('.fillbox').forEach((el) => el.classList.add('dt'));
     }
 });
