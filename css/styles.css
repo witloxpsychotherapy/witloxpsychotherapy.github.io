@@ -396,13 +396,7 @@ header.masthead h1 {
     border: solid white 1px;
     border-radius: 0.25rem;
 }
-@media (hover: none) {
-    .fill-image {
-      display: grid;
-      align-content: space-evenly;
-    }
-}
-@media (max-width: 349.98px) {
+@media (pointer:none), (pointer:coarse), (hover:none), (max-width: 349.98px) {
     .fill-image {
       display: grid;
       align-content: space-evenly;
