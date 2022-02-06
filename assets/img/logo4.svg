@@ -7,9 +7,9 @@
    sodipodi:docname="logo4.svg"
    id="svg5"
    version="1.1"
-   viewBox="0 0 203.46335 21.027922"
-   height="21.027922mm"
-   width="203.46335mm"
+   viewBox="0 0 202.46336 21.027922"
+   height="5.5636377mm"
+   width="53.568428mm"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -37,10 +37,10 @@
      inkscape:window-height="1369"
      inkscape:window-width="3440"
      inkscape:cy="165.625"
-     inkscape:cx="761.32812"
+     inkscape:cx="680.07812"
      inkscape:zoom="1.28"
      showgrid="false"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      inkscape:pagecheckerboard="0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -81,9 +81,9 @@
      xml:space="preserve"><tspan
        x="0"
        y="43.332507"
-       id="tspan32"><tspan
+       id="tspan33"><tspan
          style="font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan30">WITLOX</tspan></tspan></text>
+         id="tspan31">WITLOX</tspan></tspan></text>
   <text
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect43709);fill:#738171;fill-opacity:1;stroke:none"
      id="text43707"
@@ -91,7 +91,7 @@
      xml:space="preserve"><tspan
        x="346.48438"
        y="38.348132"
-       id="tspan36"><tspan
+       id="tspan37"><tspan
          style="font-style:italic;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G Italic'"
-         id="tspan34">Psychotherapy</tspan></tspan></text>
+         id="tspan35">Psychotherapy</tspan></tspan></text>
 </svg>
