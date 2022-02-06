@@ -261,11 +261,13 @@ hr.divider-dark {
     padding-top: 0.3125rem;
     padding-bottom: 0.3125rem;
     margin-right: 1rem;
+    overflow: visible;
 }
 .navbar-brand img {
     max-width: 100%;
     height: 1.5em;
     filter: brightness(3);
+    overflow: visible;
 }
 @media (max-width: 321px) {
     .navbar {
